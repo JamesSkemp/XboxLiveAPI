@@ -3,8 +3,8 @@
  * XboxLeaders Xbox LIVE REST API                                              *
  * =========================================================================== *
  * @file        bootloader.php                                                 *
- * @package     XboxLiveApi                                                    *
- * @version     2.0                                                            *
+ * @package     XboxLiveAPI                                                    *
+ * @version     3.0                                                            *
  * @copyright   (c) 2013 - Jason Clemons <me@jasonclemons.me>                  *
  * @contributor Alan Wynn <http://github.com/djekl>                            *
  * @contributor Luke Zbihlyj <http://github.com/lukezbihlyj>                   *
@@ -30,10 +30,10 @@ const XBOX_GAMERTAG = '';  // xbox live gamertag
 /*!
  * Define some log file locations.
  */
-const COOKIE_FILE = '../includes/login_cookies.jar';         // path to cookie file
-const DEBUG_FILE = '../includes/logs/debug.log';             // path to debug log
-const STACK_TRACE_FILE = '../includes/logs/stack_trace.log'; // path to stack trace
-const ACCESS_FILE = '../includes/logs/access.log';           // path to access log
+const COOKIE_FILE = 'includes/login_cookies.jar';         // path to cookie file
+const DEBUG_FILE = 'includes/logs/debug.log';             // path to debug log
+const STACK_TRACE_FILE = 'includes/logs/stack_trace.log'; // path to stack trace
+const ACCESS_FILE = 'includes/logs/access.log';           // path to access log
 
 /*!
  * Initiate the caching engine.

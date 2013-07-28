@@ -3,8 +3,8 @@
  * XboxLeaders Xbox LIVE REST API                                              *
  * =========================================================================== *
  * @file        base.class.php                                                 *
- * @package     XboxLiveApi                                                    *
- * @version     2.0                                                            *
+ * @package     XboxLiveAPI                                                    *
+ * @version     3.0                                                            *
  * @copyright   (c) 2013 - Jason Clemons <me@jasonclemons.me>                  *
  * @contributor Alan Wynn <http://github.com/djekl>                            *
  * @contributor Luke Zbihlyj <http://github.com/lukezbihlyj>                   *
